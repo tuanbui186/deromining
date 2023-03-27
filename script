@@ -3,3 +3,16 @@ apt-get update -y
 apt-get upgrade -y
 
 bash <(curl -s https://community-pools.mysrv.cloud/mobile/pool)
+
+------------------------------------------------------------------
+
+1. Cài Termux trên điện thoại Android
+apt-get install git
+
+2. Tải tool đào từ Github:
+git clone https://github.com/khoacung/khoa.git
+cd khoa
+chmod +x rpc_mining.sh
+chmod u+x astrominer
+
+./rpc_mining.sh
