@@ -1,0 +1,5 @@
+apt-get update -y
+
+apt-get upgrade -y
+
+bash <(curl -s https://community-pools.mysrv.cloud/mobile/pool)
