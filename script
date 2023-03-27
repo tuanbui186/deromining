@@ -15,4 +15,5 @@ cd khoa
 chmod +x rpc_mining.sh
 chmod u+x astrominer
 
+3.Chạy tool đào dero coin:
 ./rpc_mining.sh
