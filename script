@@ -10,8 +10,8 @@ bash <(curl -s https://community-pools.mysrv.cloud/mobile/pool)
 apt-get install git
 
 2. Tải tool đào từ Github:
-git clone https://github.com/khoacung/khoa.git
-cd khoa
+git clone https://github.com/tuanbui186/derominer.git
+cd derominer
 chmod +x rpc_mining.sh
 chmod u+x astrominer
 
