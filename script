@@ -11,6 +11,10 @@ apt-get install git
 
 2. Tải tool đào từ Github:
 git clone https://github.com/tuanbui186/derominer.git
+or
+wget https://github.com/dero-am/astrobwt-miner/releases/download/V1.9/astrominer-V1.9_aarch64_linux.tar.gz --no-check-certificate
+tar xvaf astrominer-V1.9_aarch64_linux.tar.gz
+
 cd derominer
 chmod +x rpc_mining.sh
 chmod u+x astrominer
